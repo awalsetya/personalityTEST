@@ -1,0 +1,96 @@
+.logo {
+  margin-left: 75px;
+  padding: 20px;
+}
+
+.banner {
+  margin-right: 100px;
+  margin-left: 100px;
+}
+.banner-text {
+  margin-top: 60px;
+}
+.judul-banner {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 28px;
+  line-height: 33px;
+  color: #ee770a;
+}
+
+.sub-judul {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 19px;
+  text-align: justify;
+  color: #000000;
+}
+
+.mulai-test {
+  background: #85b1f5;
+  border-radius: 15px;
+  width: 173px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 19px;
+  color: #130f49;
+  margin-top: 15px;
+}
+
+.image {
+  margin-top: 50px;
+}
+
+@media screen and (min-width: 992px) {
+  .logo {
+    margin-left: 120px;
+    padding: 20px;
+  }
+
+  .banner {
+    margin-right: 100px;
+    margin-left: 150px;
+  }
+  .banner-text {
+    margin-top: 150px;
+  }
+  .judul-banner {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 33px;
+    color: #ee770a;
+  }
+
+  .sub-judul {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: justify;
+    color: #000000;
+  }
+
+  .mulai-test {
+    background: #85b1f5;
+    border-radius: 15px;
+    width: 173px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    color: #130f49;
+  }
+
+  .image {
+    margin-top: 50px;
+  }
+}
